@@ -1,4 +1,6 @@
 # JobSevak - Lokal Job Assistant
+![image](https://github.com/user-attachments/assets/0285aada-c7f4-45cb-86f5-90f36c500bd3)
+
 
 A conversational AI chatbot designed to help users find job opportunities in Tier 2/3 Indian cities through Lokal's Jobs Vertical. The chatbot provides personalized job recommendations and answers queries about job opportunities, requirements, and application processes.
 
