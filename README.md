@@ -66,8 +66,7 @@ A conversational AI chatbot designed to help users find job opportunities in Tie
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd job_search_chatbot
+git clone https://github.com/hrishikeshdeore/Job-Query-Assistant.git
 ```
 
 2. Install dependencies:
