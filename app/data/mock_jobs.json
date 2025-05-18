@@ -1,0 +1,124 @@
+{
+    "jobs": [
+        {
+            "id": "job001",
+            "title": "Delivery Executive",
+            "company": "SwiftDelivery",
+            "location": "Warangal",
+            "salary": "₹15,000 - ₹18,000 per month",
+            "description": "Looking for delivery executives to deliver food and groceries. Must have a two-wheeler and smartphone.",
+            "requirements": ["Two-wheeler", "Smartphone", "Valid driving license"],
+            "job_type": "Full-time",
+            "posted_date": "2023-06-10",
+            "gender_preference": "Any"
+        },
+        {
+            "id": "job002",
+            "title": "Receptionist",
+            "company": "City Hospital",
+            "location": "Guntur",
+            "salary": "₹12,000 - ₹15,000 per month",
+            "description": "Seeking a receptionist for our hospital. Should have good communication skills and basic computer knowledge.",
+            "requirements": ["12th Pass", "Computer knowledge", "Good communication"],
+            "job_type": "Full-time",
+            "posted_date": "2023-06-12",
+            "gender_preference": "Female"
+        },
+        {
+            "id": "job003",
+            "title": "Sales Executive",
+            "company": "MobileWorld",
+            "location": "Tirupati",
+            "salary": "₹10,000 + Commission",
+            "description": "Join our mobile shop as a sales executive. Experience in mobile sales preferred.",
+            "requirements": ["10th Pass", "Sales experience", "Good communication"],
+            "job_type": "Full-time",
+            "posted_date": "2023-06-08",
+            "gender_preference": "Any"
+        },
+        {
+            "id": "job004",
+            "title": "Data Entry Operator",
+            "company": "InfoTech Solutions",
+            "location": "Vijayawada",
+            "salary": "₹12,000 - ₹14,000 per month",
+            "description": "Looking for data entry operators with good typing speed and accuracy.",
+            "requirements": ["Graduate", "Computer knowledge", "Typing speed 40wpm"],
+            "job_type": "Part-time",
+            "posted_date": "2023-06-15",
+            "gender_preference": "Any"
+        },
+        {
+            "id": "job005",
+            "title": "Cashier",
+            "company": "SuperMart",
+            "location": "Warangal",
+            "salary": "₹10,000 - ₹12,000 per month",
+            "description": "Hiring cashiers for our supermarket. Should have basic math skills and honesty.",
+            "requirements": ["12th Pass", "Basic math", "Customer service"],
+            "job_type": "Full-time",
+            "posted_date": "2023-06-14",
+            "gender_preference": "Any"
+        },
+        {
+            "id": "job006",
+            "title": "Office Assistant",
+            "company": "Bright Accountants",
+            "location": "Rajahmundry",
+            "salary": "₹8,000 - ₹10,000 per month",
+            "description": "Need an office assistant for general office work and document filing.",
+            "requirements": ["12th Pass", "MS Office", "Good communication"],
+            "job_type": "Full-time",
+            "posted_date": "2023-06-11",
+            "gender_preference": "Female"
+        },
+        {
+            "id": "job007",
+            "title": "Security Guard",
+            "company": "SecureLife",
+            "location": "Warangal",
+            "salary": "₹12,000 per month",
+            "description": "Hiring security guards for residential apartments. Day and night shifts available.",
+            "requirements": ["10th Pass", "Physical fitness", "Experience preferred"],
+            "job_type": "Full-time",
+            "posted_date": "2023-06-09",
+            "gender_preference": "Male"
+        },
+        {
+            "id": "job008",
+            "title": "Cook",
+            "company": "Family Restaurant",
+            "location": "Guntur",
+            "salary": "₹15,000 - ₹20,000 per month",
+            "description": "Experienced cook needed for our restaurant. Should know South Indian and North Indian cuisine.",
+            "requirements": ["Cooking experience", "Hygiene knowledge", "Team player"],
+            "job_type": "Full-time",
+            "posted_date": "2023-06-13",
+            "gender_preference": "Any"
+        },
+        {
+            "id": "job009",
+            "title": "Driver",
+            "company": "SafeRide Cabs",
+            "location": "Vijayawada",
+            "salary": "₹15,000 - ₹18,000 per month",
+            "description": "Hiring drivers for our cab service. Must have commercial driving license.",
+            "requirements": ["Commercial license", "3+ years experience", "Clean record"],
+            "job_type": "Full-time",
+            "posted_date": "2023-06-07",
+            "gender_preference": "Male"
+        },
+        {
+            "id": "job010",
+            "title": "Teacher",
+            "company": "Bright Future School",
+            "location": "Tirupati",
+            "salary": "₹18,000 - ₹22,000 per month",
+            "description": "Elementary school teacher needed for classes 1-5. All subjects.",
+            "requirements": ["B.Ed", "2+ years teaching experience", "Patient with children"],
+            "job_type": "Full-time",
+            "posted_date": "2023-06-12",
+            "gender_preference": "Female"
+        }
+    ]
+} 

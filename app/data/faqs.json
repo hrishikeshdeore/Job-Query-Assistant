@@ -1,0 +1,44 @@
+{
+    "faqs": [
+        {
+            "question": "How do I post a job?",
+            "answer": "To post a job, go to the 'Post a Job' section in the Lokal app. Fill out job details like title, description, salary, and location. Review the information and click 'Submit'."
+        },
+        {
+            "question": "What are the charges for posting a job?",
+            "answer": "Basic job posting is free. Premium job posting costs Rs. 499, which includes featured placement, highlighted listing, and extended visibility for 30 days."
+        },
+        {
+            "question": "How can I apply for a job?",
+            "answer": "To apply for a job, tap on the job listing you're interested in, review the details, and click the 'Apply Now' button. Follow the instructions to submit your application or contact details."
+        },
+        {
+            "question": "Can I filter jobs for women only?",
+            "answer": "Yes, you can filter jobs for women by using the 'Job Preferences' section. Select 'Jobs for Women' under the special categories filter."
+        },
+        {
+            "question": "How do I search for jobs in a specific location?",
+            "answer": "Use the search bar and enter your city name, or use the location filter to browse jobs in specific areas."
+        },
+        {
+            "question": "What documents do I need to apply for jobs?",
+            "answer": "Typically, you'll need a resume/CV, identity proof (Aadhaar/PAN), address proof, educational certificates, and any skill certifications relevant to the job."
+        },
+        {
+            "question": "How do I update my job preferences?",
+            "answer": "Go to your profile in the Lokal app, select 'Job Preferences', and update your desired job categories, locations, and salary range."
+        },
+        {
+            "question": "How will I know if an employer responds to my application?",
+            "answer": "You'll receive notifications in the app and via SMS when an employer responds to your application or wants to schedule an interview."
+        },
+        {
+            "question": "Can I save jobs to apply later?",
+            "answer": "Yes, you can save jobs by tapping the 'Save' icon on any job listing. Access your saved jobs in the 'Saved Jobs' section of your profile."
+        },
+        {
+            "question": "How do I delete a job posting?",
+            "answer": "To delete a job posting, go to 'My Posted Jobs' in your employer dashboard, find the job listing, and click the 'Delete' or 'Remove' option."
+        }
+    ]
+} 
